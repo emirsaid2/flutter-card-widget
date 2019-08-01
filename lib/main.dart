@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
             children: <Widget>[
               buildCard(Icons.account_box , "account box"),
               buildCard(Icons.adb , "Serangga Android"),
+              buildCard(Icons.exit_to_app, "Exit ah")
             ],
           ),
         ),
